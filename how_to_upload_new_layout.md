@@ -131,8 +131,7 @@ qmk new-keymap
 
 ## Adding Layers to VIA
 - So this is where things get fun! We get to add more layers to VIA, and luckily, this is super easy. I think the default firmware only gives the user 4 layers to work with, but if you're using the miryoku layout, or any other layout that requires more, this next part will give you more layers if your keyboard has the memory for it. 
-- The easiest way to do this is to either copy and paste this code into a text editor like VS Code or download the file off of git. **insert link to my git page**
-- I'll also include the rules.mk file and the config.h file
+- The easiest way to do this is to either copy and paste this code into a text editor like VS Code or download the file off of git.
 
 - [ ] Download/Copy files
 - [ ] Move/Save the files in the folder named via
@@ -170,7 +169,7 @@ qmk flash -kb crkbd -km <whatever you named your keymap file>
 ## Putting It All Together
 
 - Now all we need to is open up VIA on our browser and all of the layers you could ever dream of, will be there.
-- If you are interested in using the miryoku layout, which utilizes the Colemak-DH style layout, I'll leave that here **git page** as well. 
+- If you are interested in using the miryoku layout, which utilizes the Colemak-DH style layout, I'll leave that in the keymap folder on github.
 	- Download the file and upload it to your keyboard through VIA
 
 

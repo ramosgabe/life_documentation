@@ -31,7 +31,7 @@ Enjoy!
 
 ## Easiest Method
 
-- [ ] Install [[#^295713 |homebrew]]
+- [ ] Install [homebrew](### Install Homebrew)
 - [ ] Install [[#^cb5ae7 |QMK CLI]]
 - [ ] Download the `config.h`, `keymap.c`, and `rules.mk` files
 - [ ] Create a new folder in the `/qmk_firmware/keyboards/crkbd/keymaps`

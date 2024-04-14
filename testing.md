@@ -32,7 +32,7 @@ Enjoy!
 ## Easiest Method
 
 - [ ] Install [homebrew](#install-homebrew)
-- [ ] Install [[#^cb5ae7 |QMK CLI]]
+- [ ] Install [QMK CLI](#install-qmk-cli)
 - [ ] Download the `config.h`, `keymap.c`, and `rules.mk` files
 - [ ] Create a new folder in the `/qmk_firmware/keyboards/crkbd/keymaps`
 	- [ ] I'd recommend making a second copy of the VIA folder, just in case you want to go back to the default state
@@ -54,7 +54,6 @@ Enjoy!
 
 ### Install Homebrew
 
-^295713
 
 - [ ] Open up a new terminal window
 - [ ] Run the following command:
@@ -64,7 +63,6 @@ Enjoy!
 
 ### Install QMK CLI
 
-^cb5ae7
 
 - [ ] Either in the same terminal, or a new one, run the following command:
 ```

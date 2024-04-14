@@ -7,6 +7,6 @@ Please follow the procedures to solve your tech issues.
   
 I'm only human<br>
 And humans make<br>
-&nbsp;&nbsp;&nbsp;&nbsp;m i s t a k e s</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m i s t a k e s</p>
 
 If there are any issues with such documentation please reach out!
